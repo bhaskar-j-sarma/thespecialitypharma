@@ -1,0 +1,530 @@
+[13-Feb-2019 06:01:07 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/makemy/public_html/mobisoft_crm/index.php:1) in /home/makemy/public_html/mobisoft_crm/index.php on line 3
+[13-Feb-2019 06:01:07 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/index.php:1) in /home/makemy/public_html/mobisoft_crm/index.php on line 3
+[13-Feb-2019 06:01:22 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[13-Feb-2019 06:01:33 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[13-Feb-2019 07:01:22 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[13-Feb-2019 07:01:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 7
+[13-Feb-2019 07:03:52 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[13-Feb-2019 07:03:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 7
+[13-Feb-2019 07:04:14 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[13-Feb-2019 07:04:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 7
+[13-Feb-2019 07:04:32 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[13-Feb-2019 07:04:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 7
+[13-Feb-2019 07:04:55 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/index.php:1) in /home/makemy/public_html/mobisoft_crm/index.php on line 3
+[13-Feb-2019 07:04:59 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[13-Feb-2019 07:05:03 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[13-Feb-2019 07:05:24 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[13-Feb-2019 07:10:47 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[13-Feb-2019 07:10:56 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[13-Feb-2019 07:11:42 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[13-Feb-2019 07:13:12 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[13-Feb-2019 07:32:09 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[13-Feb-2019 07:33:38 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[13-Feb-2019 07:34:25 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[13-Feb-2019 07:37:52 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[13-Feb-2019 07:50:45 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[13-Feb-2019 07:52:28 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[13-Feb-2019 09:25:32 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[13-Feb-2019 09:25:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 7
+[13-Feb-2019 09:26:26 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/index.php:1) in /home/makemy/public_html/mobisoft_crm/index.php on line 3
+[13-Feb-2019 09:26:38 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[13-Feb-2019 09:26:46 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[13-Feb-2019 09:26:49 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[13-Feb-2019 09:27:45 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[13-Feb-2019 09:29:29 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[13-Feb-2019 09:30:16 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[13-Feb-2019 09:30:22 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[13-Feb-2019 10:56:38 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/index.php:1) in /home/makemy/public_html/mobisoft_crm/index.php on line 3
+[13-Feb-2019 10:56:42 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[13-Feb-2019 10:56:48 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[13-Feb-2019 10:56:52 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[13-Feb-2019 11:05:22 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[13-Feb-2019 11:06:38 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[13-Feb-2019 11:08:56 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[13-Feb-2019 11:14:04 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/index.php:1) in /home/makemy/public_html/mobisoft_crm/index.php on line 3
+[13-Feb-2019 11:14:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/makemy/public_html/mobisoft_crm/index.php:1) in /home/makemy/public_html/mobisoft_crm/index.php on line 5
+[13-Feb-2019 11:14:07 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[13-Feb-2019 11:14:12 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[13-Feb-2019 11:14:16 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[13-Feb-2019 11:17:19 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[13-Feb-2019 12:25:45 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[13-Feb-2019 12:25:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 7
+[19-Feb-2019 07:24:00 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[19-Feb-2019 07:24:00 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[19-Feb-2019 07:24:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 7
+[19-Feb-2019 07:24:13 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/makemy/public_html/mobisoft_crm/index.php:1) in /home/makemy/public_html/mobisoft_crm/index.php on line 3
+[19-Feb-2019 07:24:13 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/index.php:1) in /home/makemy/public_html/mobisoft_crm/index.php on line 3
+[19-Feb-2019 07:24:18 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[19-Feb-2019 07:24:24 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[19-Feb-2019 07:24:31 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[19-Feb-2019 07:30:08 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[19-Feb-2019 07:30:13 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[19-Feb-2019 07:30:13 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[19-Feb-2019 07:30:19 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[19-Feb-2019 07:30:31 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[19-Feb-2019 07:49:15 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/index.php:1) in /home/makemy/public_html/mobisoft_crm/index.php on line 3
+[19-Feb-2019 07:49:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/makemy/public_html/mobisoft_crm/index.php:1) in /home/makemy/public_html/mobisoft_crm/index.php on line 5
+[19-Feb-2019 07:51:24 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/makemy/public_html/mobisoft_crm/index.php:1) in /home/makemy/public_html/mobisoft_crm/index.php on line 3
+[19-Feb-2019 07:51:24 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/index.php:1) in /home/makemy/public_html/mobisoft_crm/index.php on line 3
+[19-Feb-2019 07:51:37 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[19-Feb-2019 07:51:44 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[19-Feb-2019 07:52:06 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[19-Feb-2019 07:53:24 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[19-Feb-2019 07:54:50 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/index.php:1) in /home/makemy/public_html/mobisoft_crm/index.php on line 3
+[19-Feb-2019 07:54:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/makemy/public_html/mobisoft_crm/index.php:1) in /home/makemy/public_html/mobisoft_crm/index.php on line 5
+[19-Feb-2019 07:54:54 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[19-Feb-2019 07:55:01 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[19-Feb-2019 07:56:13 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[21-Feb-2019 12:27:05 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/makemy/public_html/mobisoft_crm/index.php:1) in /home/makemy/public_html/mobisoft_crm/index.php on line 3
+[21-Feb-2019 12:27:05 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/index.php:1) in /home/makemy/public_html/mobisoft_crm/index.php on line 3
+[21-Feb-2019 12:27:09 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[21-Feb-2019 12:27:20 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[21-Feb-2019 12:27:28 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[18-Mar-2019 07:53:26 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/makemy/public_html/mobisoft_crm/index.php:1) in /home/makemy/public_html/mobisoft_crm/index.php on line 3
+[18-Mar-2019 07:53:26 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/index.php:1) in /home/makemy/public_html/mobisoft_crm/index.php on line 3
+[18-Mar-2019 07:56:02 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[18-Mar-2019 07:56:11 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[18-Mar-2019 09:44:38 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[18-Mar-2019 09:44:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 7
+[18-Mar-2019 09:47:51 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/index.php:1) in /home/makemy/public_html/mobisoft_crm/index.php on line 3
+[18-Mar-2019 09:47:59 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[18-Mar-2019 09:48:08 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[18-Mar-2019 09:48:29 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[18-Mar-2019 09:48:41 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[18-Mar-2019 09:49:26 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[18-Mar-2019 09:49:30 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[18-Mar-2019 09:49:35 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/edit_blogs.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[18-Mar-2019 09:51:05 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[18-Mar-2019 09:51:59 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[18-Mar-2019 09:53:28 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[18-Mar-2019 09:53:31 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[18-Mar-2019 09:53:36 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[18-Mar-2019 09:58:00 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[18-Mar-2019 09:58:08 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[18-Mar-2019 10:00:16 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[18-Mar-2019 10:05:28 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[18-Mar-2019 10:05:52 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[18-Mar-2019 10:08:10 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[18-Mar-2019 10:14:18 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/index.php:1) in /home/makemy/public_html/mobisoft_crm/index.php on line 3
+[18-Mar-2019 11:02:30 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/makemy/public_html/mobisoft_crm/index.php:1) in /home/makemy/public_html/mobisoft_crm/index.php on line 3
+[18-Mar-2019 11:02:30 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/index.php:1) in /home/makemy/public_html/mobisoft_crm/index.php on line 3
+[18-Mar-2019 11:02:59 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[18-Mar-2019 11:03:12 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[18-Mar-2019 11:03:56 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/header_top.php:1) in /home/makemy/public_html/mobisoft_crm/header_top.php on line 5
+[18-Mar-2019 11:04:44 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/makemy/public_html/mobisoft_crm/index.php:1) in /home/makemy/public_html/mobisoft_crm/index.php on line 3
+[23-Oct-2020 13:37:30 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home1/gautam15/thespecialitypharma.com/admin/index.php:2) in /home1/gautam15/thespecialitypharma.com/admin/index.php on line 3
+[23-Oct-2020 13:37:30 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/index.php:2) in /home1/gautam15/thespecialitypharma.com/admin/index.php on line 3
+[23-Oct-2020 13:39:38 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Oct-2020 13:39:38 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home1/gautam15/thespecialitypharma.com/admin/index.php:2) in /home1/gautam15/thespecialitypharma.com/admin/index.php on line 3
+[23-Oct-2020 13:39:38 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/index.php:2) in /home1/gautam15/thespecialitypharma.com/admin/index.php on line 3
+[23-Oct-2020 13:39:49 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Oct-2020 13:39:49 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[23-Oct-2020 13:40:08 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Oct-2020 13:40:08 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[23-Oct-2020 13:42:41 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Oct-2020 13:42:41 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[23-Oct-2020 13:45:39 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Oct-2020 13:45:39 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[23-Oct-2020 13:45:45 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[23-Oct-2020 13:45:45 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[25-Oct-2020 10:37:12 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[25-Oct-2020 10:37:12 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home1/gautam15/thespecialitypharma.com/admin/index.php:2) in /home1/gautam15/thespecialitypharma.com/admin/index.php on line 3
+[25-Oct-2020 10:37:12 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/index.php:2) in /home1/gautam15/thespecialitypharma.com/admin/index.php on line 3
+[25-Oct-2020 10:37:29 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[25-Oct-2020 10:37:29 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[25-Oct-2020 10:37:40 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[25-Oct-2020 10:37:40 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[25-Oct-2020 10:46:25 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[25-Oct-2020 10:46:25 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[25-Oct-2020 10:50:03 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[25-Oct-2020 10:50:03 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[25-Oct-2020 10:58:42 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[25-Oct-2020 10:58:42 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[26-Oct-2020 00:32:34 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Oct-2020 00:32:34 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/index.php:2) in /home1/gautam15/thespecialitypharma.com/admin/index.php on line 3
+[26-Oct-2020 00:32:45 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Oct-2020 00:32:45 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[26-Oct-2020 00:32:55 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Oct-2020 00:32:55 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[26-Oct-2020 00:38:54 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Oct-2020 00:38:54 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[26-Oct-2020 00:42:30 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Oct-2020 00:42:30 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[26-Oct-2020 00:42:39 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Oct-2020 00:42:39 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[26-Oct-2020 00:42:53 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Oct-2020 00:42:53 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/edit_products.php:16) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[26-Oct-2020 00:43:54 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Oct-2020 00:43:54 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/edit_products.php:16) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[26-Oct-2020 00:44:01 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Oct-2020 00:44:01 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/edit_products.php:16) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[26-Oct-2020 01:02:20 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Oct-2020 01:02:20 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[26-Oct-2020 01:04:40 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Oct-2020 01:04:40 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[26-Oct-2020 01:08:09 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Oct-2020 01:08:09 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[26-Oct-2020 01:10:41 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Oct-2020 01:10:41 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[26-Oct-2020 01:14:24 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Oct-2020 01:14:24 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[26-Oct-2020 01:14:45 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Oct-2020 01:14:45 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[26-Oct-2020 01:15:26 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Oct-2020 01:15:26 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[26-Oct-2020 01:18:01 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Oct-2020 01:18:01 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[26-Oct-2020 01:20:37 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Oct-2020 01:20:37 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[26-Oct-2020 01:34:22 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Oct-2020 01:34:22 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[26-Oct-2020 01:37:32 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Oct-2020 01:37:32 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[26-Oct-2020 01:40:20 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Oct-2020 01:40:20 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[26-Oct-2020 01:44:38 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Oct-2020 01:44:38 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[26-Oct-2020 01:47:36 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Oct-2020 01:47:36 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[26-Oct-2020 01:49:00 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Oct-2020 01:49:00 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[26-Oct-2020 01:51:19 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Oct-2020 01:51:19 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[26-Oct-2020 01:54:24 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Oct-2020 01:54:24 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[26-Oct-2020 01:58:24 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Oct-2020 01:58:24 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[26-Oct-2020 08:45:14 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Oct-2020 08:45:14 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/index.php:2) in /home1/gautam15/thespecialitypharma.com/admin/index.php on line 3
+[26-Oct-2020 08:45:29 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Oct-2020 08:45:29 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[26-Oct-2020 08:46:09 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[26-Oct-2020 08:46:09 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[27-Oct-2020 13:53:13 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Oct-2020 13:53:13 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home1/gautam15/thespecialitypharma.com/admin/index.php:2) in /home1/gautam15/thespecialitypharma.com/admin/index.php on line 3
+[27-Oct-2020 13:53:13 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/index.php:2) in /home1/gautam15/thespecialitypharma.com/admin/index.php on line 3
+[27-Oct-2020 19:11:39 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Oct-2020 19:11:39 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home1/gautam15/thespecialitypharma.com/admin/index.php:2) in /home1/gautam15/thespecialitypharma.com/admin/index.php on line 3
+[27-Oct-2020 19:11:39 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/index.php:2) in /home1/gautam15/thespecialitypharma.com/admin/index.php on line 3
+[29-Oct-2020 04:37:35 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[29-Oct-2020 04:37:36 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home1/gautam15/thespecialitypharma.com/admin/index.php:2) in /home1/gautam15/thespecialitypharma.com/admin/index.php on line 3
+[29-Oct-2020 04:37:36 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/index.php:2) in /home1/gautam15/thespecialitypharma.com/admin/index.php on line 3
+[29-Oct-2020 04:37:44 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[29-Oct-2020 04:37:44 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[29-Oct-2020 04:37:50 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[29-Oct-2020 04:37:51 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[29-Oct-2020 04:38:32 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[29-Oct-2020 04:38:32 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/edit_products.php:16) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[29-Oct-2020 10:08:19 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[29-Oct-2020 10:08:19 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home1/gautam15/thespecialitypharma.com/admin/index.php:2) in /home1/gautam15/thespecialitypharma.com/admin/index.php on line 3
+[29-Oct-2020 10:08:19 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/index.php:2) in /home1/gautam15/thespecialitypharma.com/admin/index.php on line 3
+[29-Oct-2020 10:08:25 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[29-Oct-2020 10:08:25 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[29-Oct-2020 10:08:32 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[29-Oct-2020 10:08:32 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[29-Oct-2020 10:17:20 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[29-Oct-2020 10:17:20 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[29-Oct-2020 10:24:05 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[29-Oct-2020 10:24:05 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[29-Oct-2020 10:32:40 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[29-Oct-2020 10:32:40 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[30-Oct-2020 04:43:23 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Oct-2020 04:43:23 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home1/gautam15/thespecialitypharma.com/admin/index.php:2) in /home1/gautam15/thespecialitypharma.com/admin/index.php on line 3
+[30-Oct-2020 04:43:23 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/index.php:2) in /home1/gautam15/thespecialitypharma.com/admin/index.php on line 3
+[30-Oct-2020 04:43:30 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Oct-2020 04:43:30 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[30-Oct-2020 04:43:40 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Oct-2020 04:43:40 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[30-Oct-2020 05:00:50 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[30-Oct-2020 05:00:50 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/header_top.php:4) in /home1/gautam15/thespecialitypharma.com/admin/header_top.php on line 5
+[27-Nov-2020 18:10:55 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Nov-2020 18:10:55 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home1/gautam15/thespecialitypharma.com/admin/index.php:2) in /home1/gautam15/thespecialitypharma.com/admin/index.php on line 3
+[27-Nov-2020 18:10:55 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/index.php:2) in /home1/gautam15/thespecialitypharma.com/admin/index.php on line 3
+[27-Nov-2020 19:31:14 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20100525
+These options need to match
+ in Unknown on line 0
+[27-Nov-2020 19:31:14 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home1/gautam15/thespecialitypharma.com/admin/index.php:2) in /home1/gautam15/thespecialitypharma.com/admin/index.php on line 3
+[27-Nov-2020 19:31:14 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/gautam15/thespecialitypharma.com/admin/index.php:2) in /home1/gautam15/thespecialitypharma.com/admin/index.php on line 3
+[21-Jan-2021 22:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2021 22:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'bcmath.so' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/bcmath.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/bcmath.so: cannot open shared object file: No such file or directory), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/bcmath.so.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/bcmath.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2021 22:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'bz2.so' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/bz2.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/bz2.so: cannot open shared object file: No such file or directory), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/bz2.so.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/bz2.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2021 22:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'calendar.so' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/calendar.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/calendar.so: cannot open shared object file: No such file or directory), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/calendar.so.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/calendar.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2021 22:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ctype.so' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ctype.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ctype.so: cannot open shared object file: No such file or directory), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ctype.so.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ctype.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2021 22:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'curl.so' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/curl.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/curl.so: cannot open shared object file: No such file or directory), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/curl.so.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/curl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2021 22:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'dom.so' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/dom.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/dom.so: cannot open shared object file: No such file or directory), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/dom.so.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/dom.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2021 22:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'exif.so' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/exif.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/exif.so: cannot open shared object file: No such file or directory), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/exif.so.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/exif.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2021 22:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'fileinfo.so' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/fileinfo.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/fileinfo.so: cannot open shared object file: No such file or directory), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/fileinfo.so.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/fileinfo.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2021 22:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ftp.so' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ftp.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ftp.so: cannot open shared object file: No such file or directory), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ftp.so.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ftp.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2021 22:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gd.so' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/gd.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/gd.so: cannot open shared object file: No such file or directory), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/gd.so.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/gd.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2021 22:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gettext.so' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/gettext.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/gettext.so: cannot open shared object file: No such file or directory), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/gettext.so.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/gettext.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2021 22:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'gmp.so' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/gmp.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/gmp.so: cannot open shared object file: No such file or directory), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/gmp.so.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/gmp.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2021 22:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'iconv.so' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/iconv.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/iconv.so: cannot open shared object file: No such file or directory), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/iconv.so.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/iconv.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2021 22:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'imap.so' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/imap.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/imap.so: cannot open shared object file: No such file or directory), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/imap.so.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/imap.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2021 22:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'intl.so' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/intl.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/intl.so: cannot open shared object file: No such file or directory), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/intl.so.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/intl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2021 22:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'json.so' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/json.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/json.so: cannot open shared object file: No such file or directory), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/json.so.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/json.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2021 22:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'mbstring.so' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/mbstring.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/mbstring.so: cannot open shared object file: No such file or directory), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/mbstring.so.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/mbstring.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2021 22:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqlnd.so' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/mysqlnd.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/mysqlnd.so: cannot open shared object file: No such file or directory), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/mysqlnd.so.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/mysqlnd.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2021 22:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'odbc.so' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/odbc.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/odbc.so: cannot open shared object file: No such file or directory), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/odbc.so.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/odbc.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2021 22:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo.so' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/pdo.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/pdo.so: cannot open shared object file: No such file or directory), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/pdo.so.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/pdo.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2021 22:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pgsql.so' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/pgsql.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/pgsql.so: cannot open shared object file: No such file or directory), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/pgsql.so.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/pgsql.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2021 22:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'phar.so' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/phar.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/phar.so: cannot open shared object file: No such file or directory), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/phar.so.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/phar.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2021 22:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'posix.so' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/posix.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/posix.so: cannot open shared object file: No such file or directory), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/posix.so.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/posix.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2021 22:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pspell.so' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/pspell.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/pspell.so: cannot open shared object file: No such file or directory), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/pspell.so.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/pspell.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2021 22:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'simplexml.so' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/simplexml.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/simplexml.so: cannot open shared object file: No such file or directory), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/simplexml.so.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/simplexml.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2021 22:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'soap.so' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/soap.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/soap.so: cannot open shared object file: No such file or directory), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/soap.so.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/soap.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2021 22:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'sockets.so' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/sockets.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/sockets.so: cannot open shared object file: No such file or directory), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/sockets.so.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/sockets.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2021 22:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'tidy.so' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/tidy.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/tidy.so: cannot open shared object file: No such file or directory), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/tidy.so.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/tidy.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2021 22:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'tokenizer.so' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/tokenizer.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/tokenizer.so: cannot open shared object file: No such file or directory), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/tokenizer.so.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/tokenizer.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2021 22:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xml.so' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/xml.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/xml.so: cannot open shared object file: No such file or directory), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/xml.so.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/xml.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2021 22:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlwriter.so' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/xmlwriter.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/xmlwriter.so: cannot open shared object file: No such file or directory), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/xmlwriter.so.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/xmlwriter.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2021 22:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xsl.so' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/xsl.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/xsl.so: cannot open shared object file: No such file or directory), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/xsl.so.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/xsl.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2021 22:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'zip.so' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/zip.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/zip.so: cannot open shared object file: No such file or directory), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/zip.so.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/zip.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2021 22:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqli.so' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so: cannot open shared object file: No such file or directory), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2021 22:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/pdo_mysql.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/pdo_mysql.so: cannot open shared object file: No such file or directory), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/pdo_mysql.so.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/pdo_mysql.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2021 22:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc.so' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/pdo_odbc.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/pdo_odbc.so: cannot open shared object file: No such file or directory), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/pdo_odbc.so.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/pdo_odbc.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2021 22:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/pdo_pgsql.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/pdo_pgsql.so: cannot open shared object file: No such file or directory), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/pdo_pgsql.so.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/pdo_pgsql.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2021 22:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlreader.so' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/xmlreader.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/xmlreader.so: cannot open shared object file: No such file or directory), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/xmlreader.so.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/xmlreader.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2021 22:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc.so' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/xmlrpc.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/xmlrpc.so: cannot open shared object file: No such file or directory), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/xmlrpc.so.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/xmlrpc.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2021 22:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'imagick.so' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/imagick.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/imagick.so: undefined symbol: spl_ce_Countable), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/imagick.so.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/imagick.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2021 22:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.4.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.4.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.4.lin: cannot open shared object file: No such file or directory), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.4.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.4.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2021 22:08:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[21-Jan-2021 16:08:41 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[21-Jan-2021 16:08:41 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/gautam15/thespecialitypharma.com/admin/index.php on line 3

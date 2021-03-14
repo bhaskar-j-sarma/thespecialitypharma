@@ -1,0 +1,37 @@
+[03-Nov-2020 00:22:10 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/gautam15/thespecialitypharma.com/admin/classes/connect.php on line 8
+[03-Nov-2020 00:22:10 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/gautam15/thespecialitypharma.com/contact.php on line 13
+[13-Nov-2020 15:31:51 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/gautam15/thespecialitypharma.com/admin/classes/connect.php on line 8
+[13-Nov-2020 15:31:51 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/gautam15/thespecialitypharma.com/contact.php on line 13
+[19-Nov-2020 00:32:28 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/gautam15/thespecialitypharma.com/admin/classes/connect.php on line 8
+[19-Nov-2020 00:32:28 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/gautam15/thespecialitypharma.com/contact.php on line 13
+[21-Nov-2020 00:06:01 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/gautam15/thespecialitypharma.com/admin/classes/connect.php on line 8
+[21-Nov-2020 00:06:01 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/gautam15/thespecialitypharma.com/contact.php on line 13
+[18-Dec-2020 12:17:18 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/gautam15/thespecialitypharma.com/admin/classes/connect.php on line 8
+[18-Dec-2020 12:17:18 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/gautam15/thespecialitypharma.com/contact.php on line 13
+[20-Dec-2020 14:11:29 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/gautam15/thespecialitypharma.com/admin/classes/connect.php on line 8
+[20-Dec-2020 14:11:29 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/gautam15/thespecialitypharma.com/contact.php on line 13
+[30-Dec-2020 20:14:22 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/gautam15/thespecialitypharma.com/admin/classes/connect.php on line 8
+[30-Dec-2020 20:14:22 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/gautam15/thespecialitypharma.com/contact.php on line 13
+[30-Dec-2020 22:42:13 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/gautam15/thespecialitypharma.com/admin/classes/connect.php on line 8
+[30-Dec-2020 22:42:13 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/gautam15/thespecialitypharma.com/contact.php on line 13
+[05-Jan-2021 16:39:01 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/gautam15/thespecialitypharma.com/admin/classes/connect.php on line 8
+[05-Jan-2021 16:39:01 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/gautam15/thespecialitypharma.com/contact.php on line 13
+[07-Jan-2021 00:18:33 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/gautam15/thespecialitypharma.com/admin/classes/connect.php on line 8
+[07-Jan-2021 00:18:33 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/gautam15/thespecialitypharma.com/contact.php on line 13
+[19-Jan-2021 18:50:47 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/gautam15/thespecialitypharma.com/admin/classes/connect.php on line 8
+[19-Jan-2021 18:50:47 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/gautam15/thespecialitypharma.com/contact.php on line 13
+[20-Jan-2021 21:26:55 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/gautam15/thespecialitypharma.com/admin/classes/connect.php on line 8
+[20-Jan-2021 21:26:55 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/gautam15/thespecialitypharma.com/contact.php on line 13
+[29-Jan-2021 22:35:21 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/gautam15/thespecialitypharma.com/admin/classes/connect.php on line 8
+[29-Jan-2021 22:35:21 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/gautam15/thespecialitypharma.com/contact.php on line 13
+[31-Jan-2021 13:54:03 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/gautam15/thespecialitypharma.com/admin/classes/connect.php on line 8
+[31-Jan-2021 13:54:03 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/gautam15/thespecialitypharma.com/contact.php on line 13
+[06-Feb-2021 21:50:22 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/gautam15/thespecialitypharma.com/admin/classes/connect.php on line 8
+[06-Feb-2021 21:50:22 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/gautam15/thespecialitypharma.com/contact.php on line 13
+[07-Feb-2021 05:09:56 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/gautam15/thespecialitypharma.com/admin/classes/connect.php on line 8
+[07-Feb-2021 05:09:56 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/gautam15/thespecialitypharma.com/contact.php on line 13
+[09-Feb-2021 01:23:05 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/gautam15/thespecialitypharma.com/class/fetch_data.php on line 10
+[09-Feb-2021 01:23:06 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/gautam15/thespecialitypharma.com/class/fetch_data.php on line 20
+[09-Feb-2021 01:23:06 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/gautam15/thespecialitypharma.com/index.php on line 114
+[22-Feb-2021 15:42:36 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/gautam15/thespecialitypharma.com/admin/classes/connect.php on line 8
+[22-Feb-2021 15:42:36 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/gautam15/thespecialitypharma.com/contact.php on line 13
