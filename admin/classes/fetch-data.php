@@ -1,8 +1,8 @@
 <?php
 define('DB_SERVER', 'localhost');
-define('DB_USERNAME', 'gautam15_pharma');
-define('DB_PASSWORD', 'pharma');
-define('DB_NAME', 'gautam15_pharma');
+define('DB_USERNAME', 'root');
+define('DB_PASSWORD', '');
+define('DB_NAME', 'pharma');
 class fetch_data
 	{
  		function __construct()
