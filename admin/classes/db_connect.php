@@ -12,7 +12,7 @@ class db_connect {
     
     function __construct() {
         //create Database connection 
-		@$this->mysqli = new mysqli("localhost", "gautam15_pharma", "pharma", "gautam15_pharma");
+		@$this->mysqli = new mysqli("localhost", "root", "", "pharma");
         if (mysqli_connect_errno()) {
             printf("Error: Unable To Connect Database");
             exit();
